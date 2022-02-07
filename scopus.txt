@@ -1,0 +1,951 @@
+# Scopus
+# EXPORT DATE:04 Feb 2022
+
+Ivanov, V.L., Fedotovich, G.V., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Bashtovoy, N.S., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Semenov, A.V., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Solodov, E.P., Titov, V.M., Talyshev, A.A., Tolmachev, S.S., Uskov, A.A., Vorobiov, A.I., Yudin, Y.V.
+7404809114;6701605943;7003537435;57170487300;36443291900;57205336008;6601967755;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;57170268500;57226341048;6603266980;57247331700;57202556831;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;57247554300;6701333498;53864027200;57198704381;35234858400;53864210600;7004048116;34573322700;57248200400;6603233363;56373434800;57219237881;8772320900;7007104295;
+Charged particle identification with the liquid xenon calorimeter of the CMD-3 detector
+(2021) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1015, art. no. 165761, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114381613&doi=10.1016%2fj.nima.2021.165761&partnerID=40&md5=faf068d177071a1e788421152fb81616
+
+DOI: 10.1016/j.nima.2021.165761
+
+ABBREVIATED SOURCE TITLE: Nucl Instrum Methods Phys Res Sect A
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Green
+SOURCE: Scopus
+
+Kitamura, R., Bae, S., Choi, S., Fukao, Y., Iinuma, H., Ishida, K., Kawamura, N., Kim, B., Kondo, Y., Mibe, T., Miyake, Y., Otani, M., Razuvaev, G.P., Saito, N., Shimomura, K., Strasser, P.
+56622501100;57199938587;57199723894;35227326100;57214924203;7401605199;7201535385;57204895670;7403009174;6603572776;57204147751;57201233007;55805488000;57226325534;57217545376;7005861611;
+Development of negative muonium ion source for muon acceleration
+(2021) Physical Review Accelerators and Beams, 24 (3), art. no. 033403, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103787002&doi=10.1103%2fPhysRevAccelBeams.24.033403&partnerID=40&md5=be2a316b3d77cd9ce76f8fe770b3826f
+
+DOI: 10.1103/PhysRevAccelBeams.24.033403
+
+ABBREVIATED SOURCE TITLE: Phys. Rev. Accel. Beams
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold
+SOURCE: Scopus
+
+Belozyorova, M., Maksimov, D., Razuvaev, G., Sukharev, A., Vorobyev, V., Zhadan, A., Zhadan, D.
+57216909827;36625965500;55805488000;57204811114;55195340700;57383100900;57383753800;
+COMPUTING ENVIRONMENT for the SUPER-CHARM-TAU FACTORY DETECTOR PROJECT
+(2021) CEUR Workshop Proceedings, 3041, pp. 375-380. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121648783&partnerID=40&md5=fbc5d97258bedd79b12ce6b5b569de5f
+
+
+ABBREVIATED SOURCE TITLE: CEUR Workshop Proc.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Uskov, A.A., Fedotovich, G.V., Ivanov, V.L., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Gerasimov, R.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Kirpotin, A.N., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Yu., Okhapkin, V.S., Otboev, A.V., Pestov, Yu.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Yu.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Yu., Shatunov, Yu.M., Solodov, E.P., Talyshev, A.A., Titov, V.M., Tolmachev, S.S., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Yu.V.
+57219237881;6701605943;7404809114;7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;57214846563;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;36175327100;6602929249;57170268500;35858248900;6603266980;57211071658;57202556831;6507305380;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;54080422300;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;57205413549;55424484600;56373434800;8772320900;15924534300;7007104295;
+Study of the process e +e -→ K SK ±π ∓with CMD-3 detector
+(2020) Physica Scripta, 95 (10), art. no. 104002, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091837597&doi=10.1088%2f1402-4896%2fabb694&partnerID=40&md5=587fb4c20a3bea82601831c50988e09b
+
+DOI: 10.1088/1402-4896/abb694
+
+ABBREVIATED SOURCE TITLE: Phys Scr
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ivanov, V.L., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aul-chenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Vorobiov, A.I., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Epifanov, D.A., Erofeev, A.L., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Kozyrev, A.N., Kozyrev, E.A., Koop, I.A., Korobov, A.A., Krokovny, P.P., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryzhenenkov, A.E., Ryskulov, N.M., Semenov, A.V., Sibidanov, A.L., Solodov, E.P., Talyshev, A.A., Titov, V.M., Tolmachev, S.S., Uskov, A.A., Fedotovich, G.V., Shebalin, V.E., Shwartz, B.A., Shwartz, D.B., Shatunov, Y.M., Eidelman, S.I., Epstein, L.B., Yudin, Y.V., the CMD-3 Collaboration
+7404809114;7003537435;57170487300;36443291900;57219842742;6602464299;6601967755;6504821346;57214846563;7006145523;8772320900;53863618500;6602929249;57170268500;35858248900;35227130100;55805999600;6603266980;57211071658;57202556831;7005803334;55926106900;7006754481;57170079600;57208069443;57205335932;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;7102944623;53864027200;6701333498;57198704381;6701391049;34573322700;57205413549;55424484600;56373434800;57219237881;6701605943;35234858400;7004048116;14829613700;7006690057;34970948300;57219841487;7007104295;
+Measurement of the Cross Section for the Process e+e− → K+K− with the CMD-3 Detector
+(2020) Physics of Atomic Nuclei, 83 (5), pp. 731-737. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095693775&doi=10.1134%2fS1063778820050142&partnerID=40&md5=71aa6e9ddacddc5c6cb5e0d285deac9d
+
+DOI: 10.1134/S1063778820050142
+
+ABBREVIATED SOURCE TITLE: Phys. At. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ryzhenenkov, A.E., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grancagnolo, F.J., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Semenov, A.V., Shatunov, Y.M., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Timoshenko, M.V., Talyshev, A.A., Tolmachev, S.S., Vorobiov, A.I., Yudin, Y.V.
+53864027200;7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;57214846563;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;7003373011;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;7102944623;6701333498;57198704381;7006690057;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;57205184221;57205413549;56373434800;8772320900;7007104295;
+Overview of the CMD-3 recent results
+(2020) Journal of Physics: Conference Series, 1526 (1), art. no. 012009, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086414395&doi=10.1088%2f1742-6596%2f1526%2f1%2f012009&partnerID=40&md5=76f043978772841c212e6a0a6cdc727e
+
+DOI: 10.1088/1742-6596/1526/1/012009
+
+ABBREVIATED SOURCE TITLE: J. Phys. Conf. Ser.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze, Green
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grancagnolo, F.J., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Semenov, A.V., Shatunov, Y.M., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Timoshenko, M.V., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V.
+7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;57214846563;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;7003373011;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;57198704381;7006690057;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;57205184221;55424484600;57205413549;8772320900;15924534300;7007104295;
+Study of the process e+e−→KS 0KS 0π+π− in the c.m. energy range 1.6–2.0 GeV with the CMD-3 detector
+(2020) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 804, art. no. 135380, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082618690&doi=10.1016%2fj.physletb.2020.135380&partnerID=40&md5=76bc17eda6ae64a5312a88273ee9339e
+
+DOI: 10.1016/j.physletb.2020.135380
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Yu Barnyakov, A., Yu Barnyakov, M., Belozyorova, M.S., Boborovnikov, V.S., Buzykaev, A.R., Danilyuk, A.F., Katcin, A.A., Kononov, S.A., Kravchenko, E.A., Kuyanov, I.A., Onuchin, A.P., Ovtin, I.V., Plekhov, I.M., Podgornov, N.A., Razuvaev, G.P., Yu Todyshev, K., Vorobyev, V.S.
+7801310238;6508336018;57216909827;6505912216;57216874955;7005945696;56373002000;6602576047;7007027151;6603366391;34572372600;36553055700;57216910617;56182936300;55805488000;14055216200;55195340700;
+Overview of PID options for experiments at the Super Charm-Tau Factory
+(2020) Journal of Instrumentation, 15 (4), art. no. C04032, . Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085262775&doi=10.1088%2f1748-0221%2f15%2f04%2fC04032&partnerID=40&md5=2448aabc395f54d2689d86f193e6501e
+
+DOI: 10.1088/1748-0221/15/04/C04032
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Barnyakov, A.Y., Barnyakov, M.Y., Boborovnikov, V.S., Buzykaev, A.R., Bykov, A.V., Danilyuk, A.F., Katcin, A.A., Kononov, S.A., Korda, D.V., Kravchenko, E.A., Kuyanov, I.A., Onuchin, A.P., Ovtin, I.V., Podgornov, N.A., Porosev, V.V., Razuvaev, G.P., Rodiakin, V.A., Todyshev, K.Y., Vorobyev, V.S.
+7801310238;6508336018;6505912216;7003945228;56404121400;7005945696;56373002000;6602576047;56182313900;7007027151;6603366391;34572372600;36553055700;56182936300;6601908156;55805488000;9045055000;34573118200;55195340700;
+Particle identification system for the Super Charm–Tau Factory at Novosibirsk
+(2020) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 958, art. no. 162352, . Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069226732&doi=10.1016%2fj.nima.2019.162352&partnerID=40&md5=25858bb5d61e3474b3e8743a7c0c15e0
+
+DOI: 10.1016/j.nima.2019.162352
+
+ABBREVIATED SOURCE TITLE: Nucl Instrum Methods Phys Res Sect A
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lukin, P.A., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshtein, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Kirpotin, A.N., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Semenov, A.V., Senchenko, A.I., Shatunov, P.Y., Shatunov, Y.M., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Talyshev, A.A., Titov, V.M., Vorobiov, A.I., Yudin, Y.V., Zemlyansky, I.M.
+7003794975;7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;57214846563;7006145523;34970948300;35227130100;57218122428;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;6507305380;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;57198704381;54080422300;17137480400;7006690057;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;57205413549;55424484600;8772320900;7007104295;15924534300;
+Recent results from the CMD-3 detector
+(2020) Nuclear and Particle Physics Proceedings, 309-311, pp. 99-102. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087933005&doi=10.1016%2fj.nuclphysbps.2019.11.017&partnerID=40&md5=e2ffbd3bb2a4a58cea723cd958a6a817
+
+DOI: 10.1016/j.nuclphysbps.2019.11.017
+
+ABBREVIATED SOURCE TITLE: Nucl. Part. Phys. Proc.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kitamura, R., Li, S., Otani, M., Fukao, Y., Futatsukawa, K., Kawamura, N., Mibe, T., Miyake, Y., Yamazaki, T., Kondo, Y., Hasegawa, K., Morishita, T., Bae, S., Kim, B., Choi, S., Iijima, T., Sue, Y., Iinuma, H., Nakazawa, Y., Ishida, K., Razuvaev, G., Saito, N.
+56622501100;57202308315;57201233007;35227326100;18133383700;7201535385;6603572776;57204147751;57213418075;7403009174;55209222500;7201825682;57199938587;57204895670;57199723894;56411594700;57202302677;57214924203;57211974412;7401605199;55805488000;57226325534;
+Muon acceleration test with the RFQ towards the development of the muon linac
+(2020) Proceedings of the 29th Linear Accelerator Conference, LINAC 2018, pp. 342-345. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086311654&doi=10.18429%2fJACoW-LINAC2018-TUPO010&partnerID=40&md5=796f5a366eca9bc9d5c0f606e17a7696
+
+DOI: 10.18429/JACoW-LINAC2018-TUPO010
+
+ABBREVIATED SOURCE TITLE: Proc. Linear Accel. Conf., LINAC
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gribanov, S.S., Popov, A.S., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grancagnolo, F.J., Grebenuk, A.A., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Kirpotin, A.N., Koop, I.A., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Semenov, A.V., Senchenko, A.I., Shatunov, Y.M., Shatunov, P.Y., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Tolmachev, S.S., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V., CMD-3 collaboration
+57170268500;56443282200;7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;7003373011;6602929249;35858248900;6603266980;7404809114;57211071658;57202556831;6507305380;7006754481;57170079600;57203644852;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;55805488000;24765256600;7102944623;6701333498;53864027200;57198704381;54080422300;7006690057;17137480400;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;55424484600;57205413549;56373434800;8772320900;15924534300;7007104295;
+Measurement of the e+e− → ηπ + π − cross section with the CMD-3 detector at the VEPP-2000 collider
+(2020) Journal of High Energy Physics, 2020 (1), art. no. 112, . Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078460309&doi=10.1007%2fJHEP01%282020%29112&partnerID=40&md5=7025b350d59c8970ad2fdf9c5b808635
+
+DOI: 10.1007/JHEP01(2020)112
+
+ABBREVIATED SOURCE TITLE: J. High Energy Phys.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Ivanov, V.L., Fedotovich, G.V., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Semenov, A.V., Shatunov, Y.M., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Timoshenko, M.V., Titov, V.M., Talyshev, A.A., Tolmachev, S.S., Vorobiov, A.I., Yudin, Y.V.
+7404809114;6701605943;7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;57170268500;35858248900;6603266980;57211071658;55838374500;57202556831;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;57198704381;7006690057;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;57205184221;55424484600;57205413549;56373434800;8772320900;7007104295;
+Study of the process e+e− → K+K−η with the CMD-3 detector at the VEPP-2000 collider
+(2019) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 798, art. no. 134946, . Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072574838&doi=10.1016%2fj.physletb.2019.134946&partnerID=40&md5=9c2a721d3570a97bf8355c8b46e257cc
+
+DOI: 10.1016/j.physletb.2019.134946
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Nakazawa, Y., Bae, S., Choi, H., Choi, S., Iijima, T., Iinuma, H., Kawamura, N., Kitamura, R., Kim, B., Ko, H.S., Kondo, Y., Mibe, T., Otani, M., Razuvaev, G.P., Saito, N., Sue, Y., Won, E., Yamazaki, T., Yasuda, H.
+57211974412;57199938587;57202574162;57199723894;56411594700;35621884500;7201535385;56622501100;57204895670;57194799258;7403009174;6603572776;57201233007;55805488000;57226325534;57202302677;35274124300;57213418075;38962367500;
+Beam commissioning of muon beamline using negative hydrogen ions generated by ultraviolet light
+(2019) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 937, pp. 164-167. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066069700&doi=10.1016%2fj.nima.2019.05.043&partnerID=40&md5=067c2058d7f9b4da0c2891f39b13e654
+
+DOI: 10.1016/j.nima.2019.05.043
+
+ABBREVIATED SOURCE TITLE: Nucl Instrum Methods Phys Res Sect A
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Kirpotin, A.N., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shatunov, Y.M., Shatunov, P.Y., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Talyshev, A.A., Titov, V.M., Tolmachev, S.S., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V.
+7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;6507305380;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;54080422300;7006690057;17137480400;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;57205413549;55424484600;56373434800;8772320900;15924534300;7007104295;
+Observation of a fine structure in e+e− → hadrons production at the nucleon-antinucleon threshold
+(2019) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 794, pp. 64-68. Cited 12 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067980941&doi=10.1016%2fj.physletb.2019.05.032&partnerID=40&md5=bc10ba4937aecafb3f4b1008d404c96b
+
+DOI: 10.1016/j.physletb.2019.05.032
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Abe, M., Bae, S., Beer, G., Bunce, G., Choi, H., Choi, S., Chung, M., Da Silva, W., Eidelman, S., Finger, M., Fukao, Y., Fukuyama, T., Haciomeroglu, S., Hasegawa, K., Hayasaka, K., Hayashizaki, N., Hisamatsu, H., Iijima, T., Iinuma, H., Ikeda, H., Ikeno, M., Inami, K., Ishida, K., Itahashi, T., Iwasaki, M., Iwashita, Y., Iwata, Y., Kadono, R., Kamal, S., Kamitani, T., Kanda, S., Kapusta, F., Kawagoe, K., Kawamura, N., Kim, B., Kim, Y., Kishishita, T., Kitamura, R., Ko, H., Kohriki, T., Kondo, Y., Kume, T., Lee, M.J., Lee, S., Lee, W., Marshall, G.M., Matsuda, Y., Mibe, T., Miyake, Y., Murakami, T., Nagamine, K., Nakayama, H., Nishimura, S., Nomura, D., Ogitsu, T., Ohsawa, S., Oide, K., Oishi, Y., Okada, S., Olin, A., Omarov, Z., Otani, M., Razuvaev, G., Rehman, A., Saito, N., Saito, N.F., Sasaki, K., Sasaki, O., Sato, N., Sato, Y., Semertzidis, Y.K., Sendai, H., Shatunov, Y., Shimomura, K., Shoji, M., Shwartz, B., Strasser, P., Sue, Y., Suehara, T., Sung, C., Suzuki, K., Takatomi, T., Tanaka, M., Tojo, J., Tsutsumi, Y., Uchida, T., Ueno, K., Wada, S., Won, E., Yamaguchi, H., Yamanaka, T., Yamamoto, A., Yamazaki, T., Yasuda, H., Yoshida, M., Yoshioka, T.
+35377664800;57199938587;7101926675;7005210446;57202574162;57199723894;56531262200;7007013178;34970948300;55708019600;35227326100;7101825379;18037216200;55209222500;35227356500;6603863033;7003757411;56411594700;35621884500;7404000412;56377220900;56522611500;7401605199;12757544000;57080305600;7006834990;55622238200;7005716850;57209715190;57212634266;55943535300;6603934191;6602710003;7201535385;57204895670;37084910800;14825225800;56622501100;57194799258;35227561100;7403009174;12142437300;35227558800;57216042692;57209862898;35509103800;7402705739;6603572776;57204147751;7404261903;7101673211;57080274400;57209717784;7402330647;57200868657;15923750300;7003301631;7102516748;55266718100;57220471716;57209716627;57201233007;55805488000;57211311350;57226675386;56967492900;56553553500;57202568035;47861337600;57045067100;6701616970;24725784200;7006690057;57217545376;39262417000;7004048116;7005861611;57202302677;15924135300;57207935552;57219643107;15924178600;57200414379;57199399381;57209712867;55541101300;56603629100;55336844700;35274124300;7404273430;34978024700;57220808668;57213418075;38962367500;54384474900;57215874610;
+A new approach for measuring the muon anomalous magnetic moment and electric dipole moment
+(2019) Progress of Theoretical and Experimental Physics, 2019 (5), art. no. 053C02, . Cited 89 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068500089&doi=10.1093%2fptep%2fptz030&partnerID=40&md5=2300372f5ef2e87501e9e9577256cce6
+
+DOI: 10.1093/ptep/ptz030
+
+ABBREVIATED SOURCE TITLE: Prog. Theor. Exp. Phys.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Kirpotin, A.N., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shatunov, Y.M., Shatunov, P.Y., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V.
+7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;6507305380;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;54080422300;7006690057;17137480400;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;55424484600;57205413549;8772320900;15924534300;7007104295;
+Study of the process e + e −  → 3(π + π − )π 0 in the c.m. energy range 1.6–2.0 GeV with the CMD-3 detector
+(2019) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 792, pp. 419-423. Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064200978&doi=10.1016%2fj.physletb.2019.04.007&partnerID=40&md5=b724bd27bd25d08b178f5bcb3c857986
+
+DOI: 10.1016/j.physletb.2019.04.007
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Kozyrev, E.A., Solodov, E.P., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Korobov, A.A., Koop, I.A., Kozyrev, A.N., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Yu., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Yu.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Yu.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Yu.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Yu.V.
+55926106900;34573322700;7003537435;57170487300;36443291900;57205336008;6602464299;6601967755;6504821346;57214846563;7006145523;57220210877;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;57170079600;7006754481;7005803334;57208069443;55115469400;57205335932;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;7006690057;57205413549;8772320900;7007104295;
+Intermediate dynamics of the four pions production in e+e− annihilation and tau decay processes
+(2019) Proceedings of Science, 364, art. no. 525, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098917476&partnerID=40&md5=32a5eefd8f5713792538ee01a6c70622
+
+
+ABBREVIATED SOURCE TITLE: Proc. Sci.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Fedotovich, G.V., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Kirpotin, A.N., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Yu Mikhailov, K., Okhapkin, V.S., Otboev, A.V., Peatov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Stnchenko, A.I., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Yu Shatunov, P., Shatunov, Y.M., Solodov, E.P., Talyshev, A.A., Titov, V.M., Tolmachev, S.S., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V.
+6701605943;7003537435;57170487300;36443291900;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;6507305380;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;57205335932;35370674500;7003794975;7003573999;6701695007;6602982181;57215122751;56443282200;55805488000;7102944623;6701333498;53864027200;57215136621;35234858400;53864210600;7004048116;14829613700;6701391049;57112552200;7006690057;34573322700;57205413549;55424484600;56373434800;8772320900;15924534300;7007104295;
+Recent results of the hadronic cross section measurements with the CMD-3 detector at e+e- collider VEPP-2000
+(2019) Proceedings - 15th International Workshop on Meson Physics, MESON 2018, art. no. 02027, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070503159&doi=10.1051%2fepjconf%2f201919902027&partnerID=40&md5=2d70c5d2f7ea7bab42a1ea0fee05c8bb
+
+DOI: 10.1051/epjconf/201919902027
+
+ABBREVIATED SOURCE TITLE: Proc. - Int. Workshop Meson Phys., MESON
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold
+SOURCE: Scopus
+
+Beloborodov, K.I., Achasov, M.N., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Sh Banzarov, V., Yu Barnyakov, A., Bashtovoy, N.S., Berdyugin, A.V., Bogdanchikov, A.G., Bondar, A.E., Botov, A.A., Bragin, A.V., Dimova, T.V., Druzhinin, V.P., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.G., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Kardapoltsev, L.V., Karpov, S.V., Kazanin, V.F., Kharlamov, A.G., Korneev, L.A., Korobov, A.A., Korol, A.A., Koshuba, S.V., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Litvinov, R.A., Logashenko, I.B., Lukin, P.A., Martin, K.A., Melnikova, N.A., Yu Mikhailov, K., Obrazovsky, A.E., Okhapkin, V.S., Pakhtusova, E.V., Pestov, Y.N., Popov, A.S., Pugachev, K.V., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Serednyakov, S.I., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, B.A., Sibidanov, A.L., Silagadze, Z.K., Solodov, E.P., Surin, I.K., Talyshev, A.A., Titov, V.M., Usov, Y.V., Vasiljev, A.V., Vorobiov, A.I., Yudin, V.Y., Zhabin, V.N., Zhulanov, V.
+6701701202;7003450501;7003537435;57170487300;36443291900;57205336008;57215127009;7801310238;6601967755;57196764905;6505789525;34970679100;15069100500;7006145523;57204865931;35227150800;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;57170268500;35858248900;6603266980;7404809114;57204866286;57211071658;57202556831;57220490718;56964260200;57170079600;57207897928;6701840353;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;57205335932;57220426829;35370674500;7003794975;25923955000;57190977922;7003573999;6504128840;6701695007;6701912895;56251728300;56443282200;57196020333;55805488000;7102944623;6701333498;53864027200;34768872200;35234858400;53864210600;57219638741;7004048116;6701391049;7003746041;34573322700;25029074400;57205413549;55424484600;35228154000;7003931791;8772320900;36633735600;57076613500;35273950000;
+Study of e+e- annihilation to hadrons at the VEPP-2000 collider
+(2019) Proceedings - 15th International Workshop on Meson Physics, MESON 2018, art. no. 02026, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070496750&doi=10.1051%2fepjconf%2f201919902026&partnerID=40&md5=17fadad0e0c5bba0d032e20da1617166
+
+DOI: 10.1051/epjconf/201919902026
+
+ABBREVIATED SOURCE TITLE: Proc. - Int. Workshop Meson Phys., MESON
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold
+SOURCE: Scopus
+
+Otani, M., Sue, Y., Fukao, Y., Futatsukawa, K., Kawamura, N., Mibe, T., Miyake, Y., Shimomura, K., Yamazaki, T., Iijima, T., Bae, B., Choi, H., Choi, S., Kim, B., Ko, H.S., Hasegawa, K., Kondo, Y., Morishita, T., Iinuma, H., Nakazawa, Y., Ishida, K., Kitamura, R., Li, S., Razuvaev, G.P., Saito, N., Won, E.
+57201233007;57202302677;35227326100;18133383700;7201535385;6603572776;57204147751;55580452500;57213418075;56411594700;57204197993;57202574162;57199723894;57204895670;57194799258;55209222500;7403009174;7201825682;35621884500;57211974412;7401605199;56622501100;57202308315;55805488000;57226325534;35274124300;
+Muon Profile Measurement after Acceleration with a Radio-Frequency Quadrupole linac
+(2018) Journal of Physics: Conference Series, 1067 (5), art. no. 052012, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054909882&doi=10.1088%2f1742-6596%2f1067%2f5%2f052012&partnerID=40&md5=3a72cc24e36c46f1eb481669d607ab67
+
+DOI: 10.1088/1742-6596/1067/5/052012
+
+ABBREVIATED SOURCE TITLE: J. Phys. Conf. Ser.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Kim, B., Bae, S., Choi, H., Choi, S., Kawamura, N., Kitamura, R., Ko, H.S., Kondo, Y., Mibe, T., Otani, M., Razuvaev, G.P., Won, E.
+57204895670;57199938587;57202574162;57199723894;7201535385;56622501100;57194799258;7403009174;6603572776;57201233007;55805488000;35274124300;
+Development of a microchannel plate based beam profile monitor for a re-accelerated muon beam
+(2018) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 899, pp. 22-27. Cited 5 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048760365&doi=10.1016%2fj.nima.2018.05.014&partnerID=40&md5=978bdf52536f2a21e753452d8fe3be4c
+
+DOI: 10.1016/j.nima.2018.05.014
+
+ABBREVIATED SOURCE TITLE: Nucl Instrum Methods Phys Res Sect A
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Korol, A.A., Achasov, M.N., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Aulchenko, V.M., Banzarov, V.S., Barnyakov, A.Yu., Bashtovoy, N.S., Beloborodov, K.I., Berdyugin, A.V., Berkaev, D.E., Berkaev, D.E., Bogdanchikov, A.G., Bondar, A.E., Botov, A.A., Bragin, A.V., Dimova, T.V., Druzhinin, V.P., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.B., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Kardapoltsev, L.V., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Kharlamov, A.G., Kirpotin, A.N., Koop, I.A., Koop, I.A., Korobov, A.A., Koshuba, S.V., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Lysenko, A.P., Martin, K.A., Melnikova, N.A., Mikhailov, K.Yu., Muchnoi, N.Yu., Obrazovsky, A.E., Okhapkin, V.S., Pakhtusova, E.V., Perevedentsev, E.A., Perevedentsev, E.A., Pestov, Yu.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Yu.A., Rogovsky, Yu.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Serednyakov, S.I., Shatunov, P.Yu., Shatunov, Yu.M., Shatunov, Yu.M., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Silagadze, Z.K., Skrinsky, A.N., Solodov, E.P., Surin, I.K., Talyshev, A.A., Tikhonov, Yu.A., Usov, Yu.V., Vasiljev, A.V., Vorobiov, A.I., Yudin, Yu.V., Zemlyansky, I.M.
+57207897928;7003450501;7003537435;57170487300;36443291900;7004342220;57205336008;6602464299;7801310238;6601967755;6701701202;57196764905;6504821346;6504821346;6505789525;34970679100;15069100500;7006145523;57204865931;35227150800;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;57170268500;35858248900;6603266980;7404809114;57204866286;57211071658;55838374500;57202556831;57220490718;6507305380;7006754481;7006754481;57170079600;6701840353;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;56443550100;35370674500;7003794975;7102056428;7102056428;25923955000;57190977922;7003573999;55373144900;6504128840;6701695007;6701912895;7004586183;7004586183;56251728300;56443282200;55805488000;57203850520;24765256600;7102944623;6701333498;53864027200;54080422300;34768872200;17137480400;7006690057;7006690057;35234858400;53864210600;57219638741;7004048116;14829613700;6701391049;7003746041;56216533400;34573322700;25029074400;6603233363;7003575824;35228154000;7003931791;8772320900;7007104295;15924534300;
+Measurement of the hadronic cross sections with the CMD-3 and SND detectors at the VEPP-2000 collider
+(2018) EPJ Web of Conferences, 182, art. no. 02068, . Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053213353&doi=10.1051%2fepjconf%2f201818202068&partnerID=40&md5=5245d10b7c2c74b87a04d93e915b3e33
+
+DOI: 10.1051/epjconf/201818202068
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Bae, S., Choi, H., Choi, S., Fukao, Y., Futatsukawa, K., Hasegawa, K., Iijima, T., Iinuma, H., Ishida, K., Kawamura, N., Kim, B., Kitamura, R., Ko, H.S., Kondo, Y., Li, S., Mibe, T., Miyake, Y., Morishita, T., Nakazawa, Y., Otani, M., Razuvaev, G.P., Saito, N., Shimomura, K., Sue, Y., Won, E., Yamazaki, T.
+57199938587;57202574162;57199723894;35227326100;18133383700;55209222500;56411594700;35621884500;7401605199;7201535385;57204895670;56622501100;57194799258;7403009174;57202308315;6603572776;57204147751;7201825682;57211974412;35435706100;55805488000;57225659133;55580452500;57202302677;35274124300;57213418075;
+First muon acceleration using a radio-frequency accelerator
+(2018) Physical Review Accelerators and Beams, 21 (5), art. no. 050101, . Cited 17 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047783878&doi=10.1103%2fPhysRevAccelBeams.21.050101&partnerID=40&md5=68cebbea8afa394866ec59e59d4c59ce
+
+DOI: 10.1103/PhysRevAccelBeams.21.050101
+
+ABBREVIATED SOURCE TITLE: Phys. Rev. Accel. Beams
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Kozyrev, E.A., Solodov, E.P., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Korobov, A.A., Koop, I.A., Kozyrev, A.N., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+55926106900;34573322700;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;57170079600;7006754481;7005803334;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;7006690057;6603233363;8772320900;7007104295;
+Study of the process e+e− → K+K− in the center-of-mass energy range 1010–1060 MeV with the CMD-3 detector
+(2018) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 779, pp. 64-71. Cited 25 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044352056&doi=10.1016%2fj.physletb.2018.01.079&partnerID=40&md5=7d5f736df21c45786bcd58c6dcf27cb8
+
+DOI: 10.1016/j.physletb.2018.01.079
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Ivanov, V., Solodov, E., Kozyrev, E., Razuvaev, G.
+7404809114;34573322700;55926106900;55805488000;
+Recent results at the φ-meson region from the CMD-3 detector at the VEPP-2000 collider
+(2018) EPJ Web of Conferences, 166, art. no. 00019, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040720049&doi=10.1051%2fepjconf%2f201816600019&partnerID=40&md5=132c7cd925c093558255a9c4cb5725ab
+
+DOI: 10.1051/epjconf/201816600019
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Kirpotin, A.N., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shatunov, Y.M., Shatunov, P.Y., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V., CMD-3 collaboration
+7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;6507305380;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;54080422300;7006690057;17137480400;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;55424484600;6603233363;8772320900;15924534300;7007104295;
+Hadronic cross sections with the CMD-3 detector at the VEPP-2000
+(2018) Nuclear and Particle Physics Proceedings, 294-296, pp. 170-176. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046642587&doi=10.1016%2fj.nuclphysbps.2018.03.019&partnerID=40&md5=eac9c61ad671cc48e612da31757965c1
+
+DOI: 10.1016/j.nuclphysbps.2018.03.019
+
+ABBREVIATED SOURCE TITLE: Nucl. Part. Phys. Proc.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Bashtovoy, N.S., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Grebenuk, A.A., Grigoriev, D.N., Kazanin, V.F., Kovalenko, O.A., Kozyrev, A.N., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Mikhailov, K.Y., Okhapkin, V.S., Razuvaev, G.P., Ruban, A.A., Shebalin, V.E., Shwartz, B.A., Titov, V.M., Talyshev, A.A., Yudin, Y.V.
+7003537435;36443291900;7004342220;6601967755;35227130100;55117112100;55805999600;6602929249;35858248900;57202556831;36598754200;7005803334;55115469400;56443550100;35370674500;7003573999;6701695007;55805488000;7102944623;35234858400;7004048116;55424484600;6603233363;7007104295;
+Calorimetry of the CMD-3 detector
+(2017) Journal of Physics: Conference Series, 928 (1), art. no. 012011, . Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039427189&doi=10.1088%2f1742-6596%2f928%2f1%2f012011&partnerID=40&md5=20ffd04c1cc8ab9e8c98174b6cbe4c39
+
+DOI: 10.1088/1742-6596/928/1/012011
+
+ABBREVIATED SOURCE TITLE: J. Phys. Conf. Ser.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Kirpotin, A.N., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shatunov, Y.M., Shatunov, P.Y., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Zemlyansky, I.M., Yudin, Y.V.
+7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;6507305380;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;54080422300;7006690057;17137480400;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;55424484600;6603233363;8772320900;15924534300;7007104295;
+Study of the process e+e− → π+π−π0η in the c.m. energy range 1394–2005 MeV with the CMD-3 detector
+(2017) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 773, pp. 150-158. Cited 30 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027981770&doi=10.1016%2fj.physletb.2017.08.019&partnerID=40&md5=8fcdb518c6e45e69d7602055a9960057
+
+DOI: 10.1016/j.physletb.2017.08.019
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Razuvaev, G.P., Bae, S., Choi, H., Choi, S., Ko, H.S., Kim, B., Kitamura, R., Mibe, T., Otani, M.
+55805488000;57199938587;57202574162;57199723894;57194799258;57204895670;56622501100;6603572776;57201233007;
+The low energy muon beam profile monitor for the muon g-2/EDM experiment at J-PARC
+(2017) Journal of Instrumentation, 12 (9), art. no. C09001, . Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031028817&doi=10.1088%2f1748-0221%2f12%2f09%2fC09001&partnerID=40&md5=597883e1da1364c9b5fc07c6445d1f85
+
+DOI: 10.1088/1748-0221/12/09/C09001
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Fedotovich, G.V., CMD-3 Collaboration, Erofeev, A.L., Ivanov, V.L., Ryzhenenkov, A.E., Shemyakin, D.N., Anisenkov, A.V., Aulchenko, V.M., Akhmetshin, R.R., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Vorobiev, A.I., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Jarinov, Y.M., Kazanin, V.F., Kasaev, A.S., Karpov, S.V., Kirpotin, A.N., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Koop, I.A., Korobov, A.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Sibidanov, A.L., Solodov, E.P., Talyshev, A.A., Titov, V.M., Shatunov, P.Y., Shatunov, Y.M., Shwartz, B.A., Shwartz, D.B., Shebalin, V.E., Yudin, Y.V.
+6701605943;55805999600;7404809114;53864027200;53864210600;36443291900;7004342220;7003537435;6602464299;6601967755;6504821346;34970679100;7006145523;57195591966;34970948300;35227130100;55117112100;53863618500;6602929249;57170268500;35858248900;6603266980;57195585635;57202556831;55838374500;57211071658;6507305380;36598754200;7005803334;55926106900;7006754481;57170079600;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;6701391049;34573322700;6603233363;55424484600;17137480400;7006690057;7004048116;14829613700;35234858400;7007104295;
+Cross sections of hadronic reactions e + e − → K + K − nπ (n =1,2,3) measured with the CMD3 detector at the VEPP-2000 electron–positron collider
+(2017) Physics of Particles and Nuclei, 48 (5), pp. 763-768. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028989593&doi=10.1134%2fS1063779617050173&partnerID=40&md5=11005e7f751b478bcf10bc6464b16d8c
+
+DOI: 10.1134/S1063779617050173
+
+ABBREVIATED SOURCE TITLE: Phys. Part. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kovalenko, O.A., CMD-3 collaboration, Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Kasaev, A.S., Kovalenko, O.A., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+36598754200;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;55838374500;57203644852;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Measurement of the e + e − → π+π−π0 cross section with the CMD-3 detector
+(2017) Physics of Particles and Nuclei, 48 (5), pp. 773-775. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028977764&doi=10.1134%2fS1063779617050252&partnerID=40&md5=8900e065ef754500cbb2659acb00206f
+
+DOI: 10.1134/S1063779617050252
+
+ABBREVIATED SOURCE TITLE: Phys. Part. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Kasaev, A.S., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lysenko, A.P., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shatunov, Y.M., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;55838374500;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7102056428;7003794975;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;7006690057;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;55424484600;6603233363;8772320900;7007104295;
+Z-chamber of the CMD-3 detector in the reconstruction of the track longitudinal coordinate
+(2017) Journal of Instrumentation, 12 (7), art. no. C07044, . Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026804182&doi=10.1088%2f1748-0221%2f12%2f07%2fC07044&partnerID=40&md5=09ce6443fb1cd7a6d3dcfcbbf138d319
+
+DOI: 10.1088/1748-0221/12/07/C07044
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ryzhenenkov, A.E., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Kasaev, A.S., Koop, I.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lysenko, A.P., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Shatunov, Y.M., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+53864027200;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;55838374500;7006754481;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7102056428;7003794975;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;7102944623;6701333498;7006690057;35234858400;53864210600;7004048116;14829613700;6701391049;34573322700;55424484600;6603233363;8772320900;7007104295;
+Current status of luminosity measurement with the CMD-3 detector
+(2017) Journal of Instrumentation, 12 (7), art. no. C07040, . Cited 7 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026746308&doi=10.1088%2f1748-0221%2f12%2f07%2fC07040&partnerID=40&md5=b8a55a93cdb4bed6396cf7604e2c0d1a
+
+DOI: 10.1088/1748-0221/12/07/C07040
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kitamura, R., Otani, M., Fukao, Y., Kawamura, N., Mibe, T., Miyake, Y., Shimomura, K., Kondo, Y., Hasegawa, K., Bae, S., Kim, B., Razuvaev, G., Iinuma, H., Ishida, K., Saito, N.
+56622501100;57201233007;35227326100;7201535385;6603572776;57204147751;55580452500;7403009174;55209222500;57199938587;57204895670;55805488000;35621884500;7401605199;57226325534;
+First trial of the muon acceleration for J-PARC muon g-2/EDM experiment
+(2017) Journal of Physics: Conference Series, 874 (1), art. no. 012055, . Cited 7 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026863023&doi=10.1088%2f1742-6596%2f874%2f1%2f012055&partnerID=40&md5=db7aba0ce9e3062df1141a2ef317cc65
+
+DOI: 10.1088/1742-6596/874/1/012055
+
+ABBREVIATED SOURCE TITLE: J. Phys. Conf. Ser.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Kitamura, R., Otani, M., Fukao, Y., Kawamura, N., Mibe, T., Miyake, Y., Shimomura, K., Kondo, Y., Hasegawa, K., Bae, S., Kim, B., Razuvaev, G., Iinuma, H., Ishida, K., Saito, N.
+56622501100;57201233007;35227326100;7201535385;6603572776;55588398200;55580452500;7403009174;55209222500;57199938587;57204895670;55805488000;35621884500;7401605199;57226325534;
+First trial of the muon acceleration for J-PARC Muon g-2/EDM experiment
+(2017) IPAC 2017 - Proceedings of the 8th International Particle Accelerator Conference, pp. 2311-2313. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85119684942&partnerID=40&md5=7acd0289f6f4e45f83b549259e47f4ae
+
+
+ABBREVIATED SOURCE TITLE: IPAC - Proc. Int. Part. Accel. Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Koop, I.A., Kovalenko, O.A., Korobov, A.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lysenko, A.P., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;7006754481;36598754200;57170079600;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7102056428;7003794975;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Study of the process e+e− → π+π−π+π− in the c.m. energy range 920–1060 MeV with the CMD-3 detector
+(2017) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 768, pp. 345-350. Cited 15 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015613502&doi=10.1016%2fj.physletb.2017.03.022&partnerID=40&md5=94fd5a6ff5e0ee3ccbde68503b7ab668
+
+DOI: 10.1016/j.physletb.2017.03.022
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Anisenkov, A.V., Aulchenko, V.M., Bashtovoy, N.S., Bondar, A.E., Grebenuk, A.A., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Kovalenko, O.A., Kozyrev, A.N., Kuzmin, A.S., Mikhailov, K.Yu., Logashenko, I.B., Razuvaev, G.P., Ruban, A.A., Shebalin, V.E., Shwartz, B.A., Talyshev, A.A., Titov, V.M., Yudin, Yu.V.
+36443291900;7004342220;6601967755;34970679100;6602929249;35227130100;55117112100;55805999600;36598754200;7005803334;56443550100;7003573999;35370674500;55805488000;7102944623;35234858400;7004048116;6603233363;55424484600;7007104295;
+Energy calibration of the barrel calorimeter of the CMD-3 detector
+(2017) Journal of Instrumentation, 12 (4), art. no. P04011, . Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019434090&doi=10.1088%2f1748-0221%2f12%2f04%2fP04011&partnerID=40&md5=32f7b8634d6e5ddf2474092dabf7b457
+
+DOI: 10.1088/1748-0221/12/04/P04011
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Solodov, E.P., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ivanov, V.L., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Kirpotin, A.N., Korobov, A.A., Koop, I.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V., Zemlyansky, I.M., for the CMD-3 Collaboration:
+34573322700;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;7404809114;6603266980;57211071658;57202556831;6507305380;57170079600;7006754481;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;54080422300;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;6603233363;8772320900;7007104295;15924534300;
+Study of the e+e∑ ↑ hadrons reactions with cmd-3 detector at vepp-2000 collider
+(2017) Proceedings of Science, . Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076584653&partnerID=40&md5=e6ec5f2bb924edafbef146981de5ed19
+
+
+ABBREVIATED SOURCE TITLE: Proc. Sci.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Fedotovich, G.V., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V., Zharinov, Y.M.
+6701605943;7003537435;36443291900;7004342220;6602464299;6601967755;6504821346;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;35858248900;55925218300;6603266980;7404809114;57211071658;57202556831;7003760902;6507305380;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;57191858068;
+Overview of the CMD-3 recent results at e + e - Collider VEPP-2000
+(2016) EPJ Web of Conferences, 130, art. no. 01015, . Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006026349&doi=10.1051%2fepjconf%2f201613001014&partnerID=40&md5=7fb7b0616f94214277889a0b79651612
+
+DOI: 10.1051/epjconf/201613001014
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Solodov, E.P., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazo, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Sibidanov, A.L., Shatunov, Y.M., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+34573322700;57170487300;36443291900;7004342220;6602464299;6601967755;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;57191348781;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;6701391049;7006690057;55424484600;6603233363;8772320900;7007104295;
+Hadron reactions study with the CMD-3 detector in e+e- collisions
+(2016) Modern Physics Letters A, 31 (33), art. no. 1630038, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988936952&doi=10.1142%2fS021773231630038X&partnerID=40&md5=4c79ab839aa13810af9517108c8052d8
+
+DOI: 10.1142/S021773231630038X
+
+ABBREVIATED SOURCE TITLE: Mod. Phys. Lett. A
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kozyrev, E.A., Solodov, E.P., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Kirpotin, A.N., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Koop, I.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+55926106900;34573322700;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;6507305380;57170079600;36598754200;7005803334;7006754481;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;54080422300;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;55424484600;6603233363;8772320900;7007104295;
+Study of the process e+e−→KS 0KL 0 in the center-of-mass energy range 1004–1060 MeV with the CMD-3 detector at the VEPP-2000 e+e− collider
+(2016) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 760, pp. 314-319. Cited 33 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84989962995&doi=10.1016%2fj.physletb.2016.07.003&partnerID=40&md5=e8a20346dcb509e37bda2e19cb273c4d
+
+DOI: 10.1016/j.physletb.2016.07.003
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Pivovarov, S.G., Popov, A.S., Razuvaev, G.P., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V., Zharinov, Y.M.
+7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;55925218300;6603266980;7404809114;57211071658;55838374500;57202556831;7003760902;6507305380;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;6602982181;56251728300;7003622090;56443282200;55805488000;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;57191858068;
+Study of the process e+e−→pp¯ in the c.m. energy range from threshold to 2 GeV with the CMD-3 detector
+(2016) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 759, pp. 634-640. Cited 40 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84975763905&doi=10.1016%2fj.physletb.2016.04.048&partnerID=40&md5=bd412b409824e015b3f9f90817333ab7
+
+DOI: 10.1016/j.physletb.2016.04.048
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Shebalin, V.E., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Bashtovoy, N.S., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Grebenuk, A.A., Grigoriev, D.N., Ignatov, F.V., Kazanin, V.F., Kovalenko, O.A., Kozyrev, A.N., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Mikhailov, K.Y., Okhapkin, V.S., Razuvaev, G.P., Ruban, A.A., Shwartz, B.A., Titov, V.M., Talyshev, A.A., Yudin, Y.V.
+35234858400;7003537435;36443291900;7004342220;6601967755;35227130100;55117112100;55805999600;6602929249;35858248900;6603266980;57202556831;36598754200;7005803334;55115469400;56443550100;35370674500;7003573999;6701695007;55805488000;7102944623;7004048116;55424484600;6603233363;7007104295;
+Calorimetry of the CMD-3 detector
+(2016) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 824, pp. 710-712. Cited 10 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84950141451&doi=10.1016%2fj.nima.2015.11.128&partnerID=40&md5=516d16fe7ec780851442493f31d63042
+
+DOI: 10.1016/j.nima.2015.11.128
+
+ABBREVIATED SOURCE TITLE: Nucl Instrum Methods Phys Res Sect A
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ivanov, V.L., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Sibidanov, A.L., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+7404809114;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;57211071658;57202556831;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Study of e+e-→k+k- process with the CMD-3 detector at VEPP-2000 collider
+(2016) Journal of University of Science and Technology of China, 46 (6), pp. 502-506. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037709171&doi=10.3969%2fj.issn.0253-2778.2016.06.009&partnerID=40&md5=b27c1a9d044b939fd24c5f3d74be8669
+
+DOI: 10.3969/j.issn.0253-2778.2016.06.009
+
+ABBREVIATED SOURCE TITLE: J. Univ. Sci. Technol. China
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Popov, A.S., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, D.E., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Gromov, E.M., Ignatin, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Korpotin, A.N., Koop, I.A., Kovalenko, O.A., Kazanin, V.F., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Likin, P.A., Yu. Mikhailov, K., Okhapkin, V.S., Otboev, A.V., Pestov, Y.N., Pivovarov, S.G., Razuvaev, G.P., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanlov, A.L., Shatunov, P., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V., Zharinov, Y.M.
+56443282200;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;57199242598;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;55925218300;57199191047;7404809114;57211071658;55838374500;57199235173;7006754481;36598754200;57202556831;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;57199237730;7003573999;6701695007;6602982181;56251728300;7003622090;55805488000;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;57199208017;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;57191858068;
+Measurement of e+ e- →ηπ+π- and e+ e- →ωπ+π- cross sections with the CMD-3 detector at the VEPP-2000 collider
+(2016) Journal of University of Science and Technology of China, 46 (6), pp. 514-522. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037707464&doi=10.3969%2fj.issn.0253-2778.2016.06.011&partnerID=40&md5=450b990757058de078767334e96a170f
+
+DOI: 10.3969/j.issn.0253-2778.2016.06.011
+
+ABBREVIATED SOURCE TITLE: J. Univ. Sci. Technol. China
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kozyrev, E.A., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, M.V., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, A.D., Epshteyn, L.B., Erofeev, A., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Irpotin, A.N., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Koop, I.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmn, A.S., Logashenko, I.B., Lukin, P.A., Yu. Mikhailov, K., Okhapkin, V.S., Otboev, A.V., Pestov Yu., N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Shebaun, V.E., Shemyakin, V.E., Shwartz, A.S., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, M.Y., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, V.Y.
+55926106900;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;57199199340;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;55838374500;57202556831;57199212004;57170079600;36598754200;7005803334;7006754481;57208069443;55115469400;57199235112;35370674500;7003794975;7003573999;6701695007;6602982181;57199237740;56443282200;55805488000;7102944623;6701333498;53864027200;54080422300;57199191740;57199231790;57199211234;14829613700;6701391049;17137480400;15058359000;34573322700;55424484600;6603233363;8772320900;36633735600;
+Study of the process e+e-→KK in the center-of-mass energy range 1004-1060 MeV with the CMD-3 detector at e+e- VEPP-2000 collider
+(2016) Journal of University of Science and Technology of China, 46 (6), pp. 507-513. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037707059&doi=10.3969%2fj.issn.0253-2778.2016.06.010&partnerID=40&md5=55aa2234db48f8e657146ef9a1d40482
+
+DOI: 10.3969/j.issn.0253-2778.2016.06.010
+
+ABBREVIATED SOURCE TITLE: J. Univ. Sci. Technol. China
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Solodov, E.P., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Sibidanov, A.L., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+34573322700;57170487300;36443291900;7004342220;6602464299;6601967755;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Recent results from CMD-3 detector at VEPP-2000 e + e - Collider
+(2016) AIP Conference Proceedings, 1735, art. no. 20005, . Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984577437&doi=10.1063%2f1.4949373&partnerID=40&md5=5a448b7b2ab204ec70311cee05c9b728
+
+DOI: 10.1063/1.4949373
+
+ABBREVIATED SOURCE TITLE: AIP Conf. Proc.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Shemyakin, D.N., Fedotovich, G.V., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lysenko, A.P., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V., Zemlyansky, I.M.
+53864210600;6701605943;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7102056428;7003794975;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;35234858400;7004048116;14829613700;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;15924534300;
+Cross section measurement of the process e + e - → K + K - π + π - the VEPP 2000 collider with the CMD-3 detector
+(2016) AIP Conference Proceedings, 1735, art. no. 30006, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984549277&doi=10.1063%2f1.4949389&partnerID=40&md5=f6652e1f63722c6b3e7b1dab0ca57079
+
+DOI: 10.1063/1.4949389
+
+ABBREVIATED SOURCE TITLE: AIP Conf. Proc.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Shemyakin, D.N., Fedotovich, G.V., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V., Bashtovoy, N.S., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Koop, I.A., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lysenko, A.P., Lukin, P.A., Mikhailov, K., Okhapkin, V.S., Pestov, Y., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y., Zemlyansky, I.M.
+53864210600;6701605943;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;7006754481;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7102056428;7003794975;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;7102944623;6701333498;53864027200;35234858400;7004048116;14829613700;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;15924534300;
+Measurement of the e+e-→K+K-π+π- cross section with the CMD-3 detector at the VEPP-2000 collider
+(2016) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 756, pp. 153-160. Cited 38 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84960900214&doi=10.1016%2fj.physletb.2016.02.072&partnerID=40&md5=ae0717c70d3c3e02f016316a12338e43
+
+DOI: 10.1016/j.physletb.2016.02.072
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Fedotovich, G.V., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenuk, A.A., Gribanov, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Sibidanov, A.L., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+6701605943;57170487300;36443291900;7004342220;6602464299;6601967755;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;53863618500;6602929249;57170268500;35858248900;6603266980;7404809114;57211071658;57202556831;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;6701391049;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Overview of the CMD-3 results at the VEPP-2000 e+ e- collider
+(2016) Journal of University of Science and Technology of China, 46 (4), pp. 259-271. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037698155&doi=10.3969%2fj.issn.0253-2778.2016.04.001&partnerID=40&md5=c3e31d4f7af3b863bd53f1e7fec60305
+
+DOI: 10.3969/j.issn.0253-2778.2016.04.001
+
+ABBREVIATED SOURCE TITLE: J. Univ. Sci. Technol. China
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Fedotovich, G.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Gayazov, S.E., Grebenukv, A.A., Gribanovv, S.S., Grigoriev, D.N., Ignatov, F.V., Ivanov, V.L., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Koop, I.A., Korobov, A.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V., Pestov, Y., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y., Solodov, E.P., Shemyakin, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;6701605943;34970948300;35227130100;55117112100;55805999600;53863618500;57199195616;57199235310;35858248900;6603266980;7404809114;57211071658;57202556831;7003760902;7006754481;57170079600;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;35234858400;7004048116;14829613700;6701391049;7006690057;34573322700;57199225748;55424484600;6603233363;8772320900;7007104295;
+Preliminary results on pion form factor at CMD-3
+(2016) Journal of University of Science and Technology of China, 46 (4), pp. 323-330. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037681473&doi=10.3969%2fj.issn.0253-2778.2016.04.010&partnerID=40&md5=f86a587d8d75821a780edc0b470f43ec
+
+DOI: 10.3969/j.issn.0253-2778.2016.04.010
+
+ABBREVIATED SOURCE TITLE: J. Univ. Sci. Technol. China
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Dimova, T.V., Achasov, M.N., Akmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Barnyakov, A.Y., Bashtovoy, N.S., Beloborodov, K.I., Berdyugin, A.V., Berkaev, D.E., Bogdanchikov, A.G., Bondar, A.E., Botov, A.A., Bragin, A.V., Druzhinin, V.P., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.B., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Kardapoltsev, L.V., Karpov, S.V., Kasaev, A.S., Kazanin, V.F., Kharlamov, A.G., Khazin, B.I., Kirpotin, A.N., Korol, A.A., Koshuba, S.V., Kovalenko, O.A., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Martin, K.A., Mikhailov, K.Y., Obrazovsky, A.E., Okhapkin, V.S., Otboev, A.V., Pakhtusova, E.V., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Senchenko, A.I., Serednyakov, S.I., Shatunov, P.J., Shatunov, J.M., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, D.B., Shwartz, B.A., Sibidanov, A.L., Silagadze, Z.K., Skrinsky, A.N., Solodov, E.P., Surin, I.K., Talyshev, A.A., Tikhonov, J.A., Titov, V.M., Usov, Y.V., Vasiljev, A.V., Vorobiov, A.I., Yudin, Y.V., Zemlyansky, I.M.
+57204865931;7003450501;56440180700;36443291900;7004342220;6602464299;7801310238;6601967755;6701701202;57196764905;6504821346;6505789525;34970679100;15069100500;7006145523;35227150800;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;35858248900;55925218300;6603266980;57204866286;57211071658;55838374500;57202556831;22834703600;7003760902;6507305380;57207897928;6701840353;36598754200;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;56443550100;35370674500;7003794975;25923955000;7003573999;6504128840;6701695007;6602982181;6701912895;56251728300;56443282200;55805488000;7102944623;6701333498;53864027200;54080422300;34768872200;17137480400;57189576265;35234858400;53864210600;57219638741;14829613700;7004048116;6701391049;7003746041;56216533400;34573322700;25029074400;6603233363;6505716266;55424484600;35228154000;7003931791;8772320900;7007104295;15924534300;
+Recent results on e+e-→hadrons cross sections from SND and CMD-3 detectors at VEPP-2000 collider
+(2016) Nuclear and Particle Physics Proceedings, 273-275, pp. 1991-1996. Cited 7 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84973138226&doi=10.1016%2fj.nuclphysbps.2015.09.322&partnerID=40&md5=9e021ce1d7b547f6b54eaba6e5aa0fca
+
+DOI: 10.1016/j.nuclphysbps.2015.09.322
+
+ABBREVIATED SOURCE TITLE: Nucl. Part. Phys. Proc.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Hybrid Gold
+SOURCE: Scopus
+
+Ivanov, V.L., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, Y.M., Shatunov, P.Y., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+7404809114;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;6504821346;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;57202556831;7003760902;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;7006690057;17137480400;34573322700;55424484600;6603233363;8772320900;7007104295;
+Preliminary results of the cross-section measurement of e+e− → φ(1020)η process with the CMD-3 detector at VEPP-2000 collider
+(2016) Physics of Atomic Nuclei, 79 (2), pp. 251-259. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84971290185&doi=10.1134%2fS1063778816020083&partnerID=40&md5=4c266a4a9a9d2b0d775e520550039a3b
+
+DOI: 10.1134/S1063778816020083
+
+ABBREVIATED SOURCE TITLE: Phys. At. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Shebalin, V.E., Anisenkov, A.V., Aulchenko, V.M., Bashtovoy, N.S., Epifanov, D.A., Epshteyn, L.B., Grebenuk, A.A., Ignatov, F.V., Erofeev, A.L., Kovalenko, O.A., Kozyrev, A.N., Kuzmin, A.S., Logashenko, I.B., Mikhailov, K.Y., Razuvaev, G.P., Ruban, A.A., Shwartz, B.A., Talyshev, A.A., Titov, V.M., Yudin, Y.V.
+35234858400;36443291900;7004342220;6601967755;35227130100;55117112100;6602929249;6603266980;55805999600;36598754200;7005803334;56443550100;35370674500;7003573999;55805488000;7102944623;7004048116;6603233363;55424484600;7007104295;
+Barrel calorimeter of the CMD-3 detector
+(2015) Physics of Atomic Nuclei, 78 (13), pp. 1544-1551. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84957087834&doi=10.1134%2fS1063778815130311&partnerID=40&md5=7b2d6eedb36d71adfd6e3687b1b26832
+
+DOI: 10.1134/S1063778815130311
+
+ABBREVIATED SOURCE TITLE: Phys. At. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Aulchenko, V.M., Bondar, A.E., Epifanov, D.A., Erofeev, A.L., Kovalenko, O.A., Kozyrev, A.N., Kuzmin, A.S., Logashenko, I.B., Razuvaev, G.P., Ruban, A.A., Shebalin, V.E., Shwartz, B.A., Talyshev, A.A., Titov, V.M., Yudin, Y.V.
+7004342220;34970679100;35227130100;55805999600;36598754200;7005803334;56443550100;35370674500;55805488000;7102944623;35234858400;7004048116;6603233363;55424484600;7007104295;
+CsI calorimeter of the CMD-3 detector
+(2015) Journal of Instrumentation, 10 (10), art. no. P10006, . Cited 16 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84947087760&doi=10.1088%2f1748-0221%2f10%2f10%2fP10006&partnerID=40&md5=02d1f6974753ca69fea165c7c052c625
+
+DOI: 10.1088/1748-0221/10/10/P10006
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Fedotovich, G.V., Anisenkov, A.V., Aulchenko, V.M., Akhmetshin, R.R., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Vorobiov, A.I., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Epifanov, D.A., Erofeev, A.L., Zharinov, Y.M., Ivanov, V.L., Ignatov, F.V., Kazanin, V.F., Karpov, S.V., Kirpotin, A.N., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Koop, I.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Perevedentsev, E.A., Pestov, Y.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryzhenenkov, A.E., Ryskulov, N.M., Sibidanov, A.L., Solodov, E.P., Talyshev, A.A., Titov, V.M., Khazin, B.I., Shatunov, P.Y., Shatunov, Y.M., Shwartz, B.A., Shwartz, D.B., Shebalin, V.E., Shemyakin, D.N., Eidelman, S.I., Epshteyn, L.B., Yudin, Y.V.
+6701605943;36443291900;7004342220;7003537435;6602464299;6601967755;6504821346;7006145523;8772320900;53863618500;6602929249;35858248900;55925218300;35227130100;55805999600;57191858068;7404809114;6603266980;57202556831;57211071658;6507305380;36598754200;7005803334;55926106900;7006754481;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;7004586183;56251728300;56443282200;55805488000;24765256600;25724591600;7102944623;53864027200;6701333498;6701391049;34573322700;6603233363;55424484600;7003760902;17137480400;7006690057;7004048116;14829613700;35234858400;53864210600;34970948300;55117112100;7007104295;
+Preliminary results of measurements of hadronic cross sections with the CMD-3 detector at the VEPP-2000 electron–positron collider
+(2015) Physics of Atomic Nuclei, 78 (5), pp. 591-602. Cited 7 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84940052314&doi=10.1134%2fS1063778815040043&partnerID=40&md5=b6a33bdcf58308fa2609121f976fc043
+
+DOI: 10.1134/S1063778815040043
+
+ABBREVIATED SOURCE TITLE: Phys. At. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kozyrev, E.A., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Vorobiov, A.I., Gayazov, S.E., Grebenyuk, A.A., Grigoriev, D.N., Gromov, E.M., Epifanov, D.A., Erofeev, A.L., Zharinov, Y.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryzhenenkov, A.E., Ryskulov, N.M., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Fedotovich, G.V., Khazin, B.I., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Shatunov, P.Y., Shatunov, Y.M., Eidelman, S.I., Epshteyn, L.B., Yudin, Y.V.
+55926106900;7003537435;36443291900;7004342220;6602464299;6601967755;6504821346;7006145523;8772320900;53863618500;57201784072;35858248900;55925218300;35227130100;55805999600;57191858068;6603266980;57211071658;57202556831;6507305380;7006754481;36598754200;7005803334;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;53864027200;6701333498;6701391049;34573322700;55424484600;6603233363;6701605943;7003760902;35234858400;53864210600;7004048116;14829613700;17137480400;7006690057;34970948300;55117112100;7007104295;
+Investigation of the process e+e− → K+K− with the aid of the CMD-3 detector at the VEPP-2000 electron-positron collider
+(2015) Physics of Atomic Nuclei, 78 (3), pp. 358-362. Cited 5 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930225000&doi=10.1134%2fS1063778815020192&partnerID=40&md5=d46b1c1704afda5a9c83c9f5cb2d2f32
+
+DOI: 10.1134/S1063778815020192
+
+ABBREVIATED SOURCE TITLE: Phys. At. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lukin, P.A., Anisenkov, A.V., Aulchenko, V.M., Akhmetshin, R.R., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Vorobiov, A.I., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Epifanov, D.A., Erofeev, A.L., Zharinov, Y.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Popov, Y.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Sibidanov, A.L., Solodov, E.P., Titov, V.M., Talyshev, A.A., Fedotovich, G.V., Khazin, B.I., Shatunov, P.Y., Shatunov, Y.M., Shwartz, B.A., Shwartz, D.B., Shebalin, V.E., Shemyakin, D.N., Eidelman, S.I., Epshteyn, L.B., Yudin, Y.V.
+7003794975;36443291900;7004342220;7003537435;6602464299;6601967755;6504821346;7006145523;8772320900;53863618500;6602929249;35858248900;55925218300;35227130100;55805999600;57191858068;6603266980;57211071658;57202556831;6507305380;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7102056428;7003573999;6701695007;56251728300;7004586183;56443282200;8921751500;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;6701391049;34573322700;55424484600;6603233363;6701605943;7003760902;17137480400;7006690057;7004048116;14829613700;35234858400;53864210600;34970948300;55117112100;7007104295;
+Investigation of the processes e+e−→ 2 (π+π−π0) and e+e− → 3 (π+π−) with the aid of the CMD-3 detector
+(2015) Physics of Atomic Nuclei, 78 (3), pp. 353-357. Cited 8 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930201831&doi=10.1134%2fS1063778815020209&partnerID=40&md5=62c91e2506c99b78e3869d3e4d41975d
+
+DOI: 10.1134/S1063778815020209
+
+ABBREVIATED SOURCE TITLE: Phys. At. Nucl.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.N., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K., Muchnoi, N., Okhapkin, V.S., Pestov, Y., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P., Shatunov, Y., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.
+7003537435;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;57202556831;7003760902;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;55373144900;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Search for the process e+e-→Λ'(958) with the CMD-3 detector
+(2015) Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics, 740, pp. 273-277. Cited 25 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84916896495&doi=10.1016%2fj.physletb.2014.11.056&partnerID=40&md5=d97a31230e883d8ed84a397a7c8ac549
+
+DOI: 10.1016/j.physletb.2014.11.056
+
+ABBREVIATED SOURCE TITLE: Phys Lett Sect B Nucl Elem Part High-Energy Phys
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Logashenko, I.B., Achasov, M.N., Akhmetshin, R.R., Amirkhanov, A.N., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Barnyakov, A.Yu., Beloborodov, K.I., Berdyugin, A.V., Berkaev, D.E., Bogdanchikov, A.G., Botov, A.A., Bragin, A.V., Dimova, T.V., Druzhinin, V.P., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.B., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Kardapoltsev, L.V., Karpov, S.V., Kazanin, V.F., Kharlamov, A.G., Koop, I.A., Korol, A.A., Koshuba, S.V., Kovalenko, O.A., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Lukin, P.A., Martin, K.A., Mikhailov, K.Yu., Obrazovsky, A.E., Okhapkin, V.S., Otboev, A.V., Pakhtusova, E.V., Pestov, Yu.N., Popov, A.S., Razuvaev, G.P., Rogovsky, Yu.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Serednyakov, S.I., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Silagadze, Z.K., Shatunov, P.Yu., Shatunov, Yu.M., Solodov, E.P., Surin, I.K., Titov, V.M., Talyshev, A.A., Vasiljev, A.V., Vorobiov, A.I., Yudin, Yu.V.
+35370674500;7003450501;7003537435;57170487300;36443291900;7004342220;6602464299;6601967755;7801310238;6701701202;57196764905;6504821346;6505789525;15069100500;7006145523;57204865931;35227150800;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;35858248900;55925218300;6603266980;57204866286;57211071658;57202556831;22834703600;7006754481;57207897928;6701840353;36598754200;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;56443550100;7003794975;25923955000;7003573999;6504128840;6701695007;6602982181;6701912895;56251728300;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;34768872200;35234858400;53864210600;57219638741;7004048116;14829613700;6701391049;7003746041;17137480400;7006690057;34573322700;25029074400;55424484600;6603233363;7003931791;8772320900;7007104295;
+Measurement of the hadronic cross sections at novosibirsk
+(2015) EPJ Web of Conferences, 96, art. no. 01022, . Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84979010721&doi=10.1051%2fepjconf%2f20159601022&partnerID=40&md5=4ad00ee7bd0d9b59a2fea3c8d4e2c73f
+
+DOI: 10.1051/epjconf/20159601022
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Shebalin, V.E., Anisenkov, A.V., Bashtovoy, N.S., Epifanov, D.A., Erofeev, A.L., Grebenuk, A.A., Karpov, S.V., Khazin, B.I., Kovalenko, O.A., Kozyrev, A.N., Kuzmin, A.S., Mikhailov, K.Yu., Razuvaev, G.P., Ruban, A.A., Shwartz, B.A., Titov, V.M., Talyshev, A.A., Yudin, Yu.V.
+35234858400;36443291900;6601967755;35227130100;55805999600;6602929249;57211071658;7003760902;36598754200;7005803334;56443550100;7003573999;55805488000;7102944623;7004048116;55424484600;6603233363;7007104295;
+Combined liquid xenon and crystal Csl calorimeter of the CMD-3 detector
+(2014) Journal of Instrumentation, 9 (10), art. no. C10013, . Cited 8 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908498725&doi=10.1088%2f1748-0221%2f9%2f10%2fC10013&partnerID=40&md5=eb3984845ca1e8b4b177c06ea41cfff0
+
+DOI: 10.1088/1748-0221/9/10/C10013
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Karpov, S.V., Ivanov, V.L., Kazanin, V.F., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Yu., Okhapkin, V.S., Pestov, Yu.N., Perevedentsev, E.A., Popov, A.S., Popov, Yu.S., Razuvaev, G.P., Rogovsky, Yu.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Yu., Shatunov, Yu.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Yu.V., Zharinov, Yu.M.
+7003537435;36443291900;7004342220;6602464299;6601967755;6504821346;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;7404809114;57202556831;7003760902;6507305380;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;56251728300;7004586183;56443282200;8921751500;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;57191858068;
+Current status of luminosity measurement with the CMD-3 detector at the VEPP-2000 e+e- collider
+(2014) Journal of Instrumentation, 9 (9), art. no. C09003, . Cited 13 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84907482448&doi=10.1088%2f1748-0221%2f9%2f09%2fC09003&partnerID=40&md5=dac91cb6706dbf08799b5f7f385e349d
+
+DOI: 10.1088/1748-0221/9/09/C09003
+
+ABBREVIATED SOURCE TITLE: J. Instrum.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lukin, P.A., Akmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Mikhailov, K.Y., Muchnoi, N.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+7003794975;56440180700;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;57202556831;7003760902;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003573999;55373144900;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Study of the process e + e - → 2(π + π - πwith the CMD-3 detector at VEPP-2000 collider
+(2014) EPJ Web of Conferences, 81, art. no. 02010, . Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84915822538&doi=10.1051%2fepjconf%2f20148102010&partnerID=40&md5=a352aa4b6fa345aabd2cf90325329e28
+
+DOI: 10.1051/epjconf/20148102010
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Shemyakin, D.N., Akmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bondar, A.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Mikhailov, K.Y., Muchnoi, N.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V.
+53864210600;56440180700;36443291900;7004342220;6602464299;6601967755;6504821346;34970679100;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;57202556831;7003760902;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7003573999;55373144900;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;
+Study of the processes e + e - → K + K - π + π -, θ η with the CMD-3 detector at the e + e - Collider VEPP-2000
+(2014) EPJ Web of Conferences, 81, art. no. 02019, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84915820343&doi=10.1051%2fepjconf%2f20148102019&partnerID=40&md5=f29abd4cab6b4ce84a3c34b160bf08e1
+
+DOI: 10.1051/epjconf/20148102019
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold
+SOURCE: Scopus
+
+Logashenko, I.B., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Y., Okhapkin, V.S., Pestov, Y.N., Perevedentsev, E.A., Popov, A.S., Razuvaev, G.P., Rogovsky, Y.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Y., Shatunov, Y.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Y.V., Zharinov, Y.M.
+35370674500;7003537435;36443291900;7004342220;6602464299;6601967755;6504821346;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;57202556831;7003760902;6507305380;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;7003794975;7102056428;7003573999;6701695007;56251728300;7004586183;56443282200;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;57191858068;
+Measurement of e + e - → π + π - oss section at CMD-3
+(2014) EPJ Web of Conferences, 72, art. no. 00013, . Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901472474&doi=10.1051%2fepjconf%2f20147200013&partnerID=40&md5=08f3cb0eaa4db009fa6be36fde9acbce
+
+DOI: 10.1051/epjconf/20147200013
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Achasov, M.N., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Barkov, L.M., Barnyakov, A.Y., Bashtovoy, N.S., Beloborodov, K.I., Berdyugin, A.V., Berkaev, D.E., Bogdanchikov, A.G., Bondar, A.E., Botov, A.A., Bragin, A.V., Dimova, A.V., Druzhinin, V.P., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.B., Grebenuk, A.A., Grevtsov, K.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Kardapoltsev, L.V., Karpov, S.V., Kazanin, V.F., Kharlamov, A.G., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Korol, A.A., Koshuba, S.V., Kovalenko, O.A., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Martin, K.A., Mikhailov, K.Yu., Obrazovsky, A.E., Okhapkin, V.S., Otboev, A.V., Pakhtusova, E.V., Perevedentsev, E.A., Pestov, Yu.N., Popov, A.S., Popov, Yu.S., Razuvaev, G.P., Rogovsky, Yu.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Serednyakov, S.I., Shatunov, P.Yu., Shatunov, Yu.M., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Silagadze, Z.K., Solodov, E.P., Surin, I.K., Talyshev, A.A., Titov, V.M., Vasiljev, A.V., Vorobiov, A.I., Yudin, Yu.V., Zemlyansky, I.M., Zharinov, Yu.M.
+7003450501;7003537435;36443291900;7004342220;6602464299;7005659397;7801310238;6601967755;6701701202;57196764905;6504821346;6505789525;34970679100;15069100500;7006145523;56180203600;35227150800;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;57189520530;35858248900;55925218300;6603266980;57204866286;57211071658;57202556831;22834703600;7003760902;6507305380;7006754481;57207897928;6701840353;36598754200;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;56443550100;35370674500;7003794975;7102056428;25923955000;7003573999;6504128840;6701695007;6602982181;6701912895;7004586183;56251728300;56443282200;8921751500;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;34768872200;17137480400;7006690057;35234858400;53864210600;57219638741;7004048116;14829613700;6701391049;7003746041;34573322700;25029074400;6603233363;55424484600;7003931791;8772320900;7007104295;15924534300;57191858068;
+Precise measurements of the hadronic cross sections with the CMD-3 and SND detectors at the VEPP-2000 e + e - Collider
+(2014) EPJ Web of Conferences, 71, art. no. 00121, . Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901411940&doi=10.1051%2fepjconf%2f20147100121&partnerID=40&md5=500f36fa8861b8303501472c552df575
+
+DOI: 10.1051/epjconf/20147100121
+
+ABBREVIATED SOURCE TITLE: EPJ Web Conf.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Achasov, M.N., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Barkov, L.M., Barnyakov, A.Yu., Bashtovoy, N.S., Beloborodov, K.I., Berdyugin, A.V., Berkaev, D.E., Bogdanchikov, A.G., Bondar, A.E., Botov, A.A., Bragin, A.V., Dimova, T.V., Druzhinin, V.P., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.B., Grebenuk, A.A., Grevtsov, K.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Kardapoltsev, L.V., Karpov, S.V., Kazanin, V.F., Kharlamov, A.G., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Korol, A.A., Koshuba, S.V., Kovalenko, O.A., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Martin, K.A., Mikhailov, K.Yu., Obrazovsky, A.E., Okhapkin, V.S., Pakhtusova, E.V., Perevedentsev, E.A., Pestov, Yu.N., Popov, A.S., Popov, Yu.S., Razuvaev, G.P., Rogovsky, Yu.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Serednyakov, S.I., Shatunov, P.Yu., Shatunov, Yu.M., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Silagadze, Z.K., Solodov, E.P., Surin, I.K., Talyshev, A.A., Titov, V.M., Vasiljev, A.V., Vorobiov, A.I., Yudin, Yu.V., Zemlyansky, I.M., Zharinov, Yu.M.
+7003450501;7003537435;36443291900;7004342220;6602464299;7005659397;7801310238;6601967755;6701701202;57196764905;6504821346;6505789525;34970679100;15069100500;7006145523;57204865931;35227150800;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;57189520530;35858248900;55925218300;6603266980;57204866286;57211071658;57202556831;22834703600;7003760902;6507305380;7006754481;57207897928;6701840353;36598754200;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;56443550100;35370674500;7003794975;7102056428;25923955000;7003573999;6504128840;6701695007;6701912895;7004586183;56251728300;56443282200;8921751500;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;34768872200;17137480400;7006690057;35234858400;53864210600;57219638741;7004048116;14829613700;6701391049;7003746041;34573322700;25029074400;6603233363;55424484600;7003931791;8772320900;7007104295;15924534300;57191858068;
+Measurements of the hadronic cross sections with the CMD-3 and SND detectors at the VEPP-2000 e+e collider
+(2013) Proceedings of Science, 7 p. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887421680&partnerID=40&md5=600acfc67305fdad683af10336ef6a48
+
+
+ABBREVIATED SOURCE TITLE: Proc. Sci.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Anisenkov, A.V., Aulchenko, V.M., Barkov, L.M., Bashtovoy, N.S., Bondar, A.E., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Grebenuk, A.A., Ignatov, F.V., Karpov, S.V., Khazin, B.I., Kovalenko, O.A., Kozyrev, A.N., Kuzmin, A.S., Logashenko, I.B., Mikhailov, K.Yu., Pestov, Y.N., Pivovarov, S.G., Popov, A.S., Razuvaev, G.P., Ruban, A.A., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Solodov, E.P., Titov, V.M., Talyshev, A.A., Yudin, Y.V.
+36443291900;7004342220;7005659397;6601967755;34970679100;35227130100;55117112100;55805999600;6602929249;6603266980;57211071658;7003760902;36598754200;7005803334;56443550100;35370674500;7003573999;56251728300;7003622090;56443282200;55805488000;7102944623;53864027200;35234858400;53864210600;7004048116;34573322700;55424484600;6603233363;7007104295;
+Barrel calorimeter of the CMD-3 detector
+(2013) Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 732, pp. 463-465. Cited 5 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84889082376&doi=10.1016%2fj.nima.2013.07.044&partnerID=40&md5=9c4193027bc5507e05fdddb44226e8e7
+
+DOI: 10.1016/j.nima.2013.07.044
+
+ABBREVIATED SOURCE TITLE: Nucl Instrum Methods Phys Res Sect A
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Achasov, M.N., Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Barkov, L.M., Barnyakov, A.Yu., Bashtovoy, N.S., Beloborodov, K.I., Berdyugin, A.V., Berkaev, D.E., Bogdanchikov, A.G., Bondar, A.E., Botov, A.A., Bragin, A.V., Dimova, T.V., Druzhinin, V.P., Eiddelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Golubev, V.B., Grebenuk, A.A., Grevtsov, K.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Kardapoltsev, L.V., Karpov, S.V., Kazanin, V.F., Kharlamov, A.G., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Korol, A.A., Koshuba, S.V., Kovalenko, O.A., Kovrizhin, D.P., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kupich, A.S., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Martin, K.A., Mikhailov, K.Yu., Obrazovsky, A.E., Okhapkin, V.S., Pakhtusova, E.V., Perevedentsev, E.A., Pestov, Yu.N., Popov, A.S., Popov, Yu.S., Razuvaev, G.P., Rogovsky, Yu.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Serednyakov, S.I., Shatunov, P.Yu., Shatunov, Yu.M., Shebalin, V.E., Shemyakin, D.N., Shtol, D.A., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Silagadze, Z.K., Solodov, E.P., Surin, I.K., Talyshev, A.A., Titov, V.M., Vasiljev, A.V., Vorobiov, A.I., Yudin, Yu.V., Zemlyansky, I.M., Zharinov, Yu.M.
+7003450501;7003537435;36443291900;7004342220;6602464299;7005659397;7801310238;6601967755;6701701202;57196764905;6504821346;6505789525;34970679100;15069100500;7006145523;57204865931;35227150800;57193907335;35227130100;55117112100;55805999600;6701605943;53863618500;34771057900;6602929249;57189520530;35858248900;55925218300;6603266980;57204866286;57211071658;57202556831;22834703600;7003760902;6507305380;7006754481;57207897928;6701840353;36598754200;24765455400;7005803334;55926106900;57208069443;55926083600;55115469400;56443550100;35370674500;7003794975;7102056428;25923955000;7003573999;6504128840;6701695007;6701912895;7004586183;56251728300;56443282200;8921751500;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;34768872200;17137480400;7006690057;35234858400;53864210600;57219638741;7004048116;14829613700;6701391049;7003746041;34573322700;25029074400;6603233363;55424484600;7003931791;8772320900;7007104295;15924534300;57191858068;
+Current results of the experiments at VEPP-2000
+(2013) Proceedings of Science, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019530210&partnerID=40&md5=5294db56eedaa71933a5eef0800d87e2
+
+
+ABBREVIATED SOURCE TITLE: Proc. Sci.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Akhmetshin, R.R., Anisenkov, A.V., Aulchenko, V.M., Banzarov, V.S., Bashtovoy, N.S., Berkaev, D.E., Bragin, A.V., Eidelman, S.I., Epifanov, D.A., Epshteyn, L.B., Erofeev, A.L., Fedotovich, G.V., Gayazov, S.E., Grebenuk, A.A., Grigoriev, D.N., Gromov, E.M., Ignatov, F.V., Karpov, S.V., Kazanin, V.F., Khazin, B.I., Kirpotin, A.N., Koop, I.A., Kovalenko, O.A., Kozyrev, A.N., Kozyrev, E.A., Krokovny, P.P., Kuzmenko, A.E., Kuzmin, A.S., Logashenko, I.B., Lukin, P.A., Lysenko, A.P., Mikhailov, K.Yu., Okhapkin, V.S., Pestov, Yu.N., Perevedentsev, E.A., Popov, A.S., Popov, Yu.S., Razuvaev, G.P., Rogovsky, Yu.A., Romanov, A.L., Ruban, A.A., Ryskulov, N.M., Ryzhenenkov, A.E., Shebalin, V.E., Shemyakin, D.N., Shwartz, B.A., Shwartz, D.B., Sibidanov, A.L., Shatunov, P.Yu., Shatunov, Yu.M., Solodov, E.P., Titov, V.M., Talyshev, A.A., Vorobiov, A.I., Yudin, Yu.V., Zharinov, Yu.M.
+7003537435;36443291900;7004342220;6602464299;6601967755;6504821346;7006145523;34970948300;35227130100;55117112100;55805999600;6701605943;53863618500;6602929249;35858248900;55925218300;6603266980;57211071658;57202556831;7003760902;6507305380;7006754481;36598754200;7005803334;55926106900;57208069443;55115469400;56443550100;35370674500;7003794975;7102056428;7003573999;6701695007;56251728300;7004586183;56443282200;8921751500;55805488000;24765256600;25724591600;7102944623;6701333498;53864027200;35234858400;53864210600;7004048116;14829613700;6701391049;17137480400;7006690057;34573322700;55424484600;6603233363;8772320900;7007104295;57191858068;
+Study of the process e+e- →k+K-φ+φ- in the c.m. energy range 1.5-2.0 GeV with the CMD-3 detector
+(2013) Proceedings of Science, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019523968&partnerID=40&md5=28c67a70260ecc392c091317262666c8
+
+
+ABBREVIATED SOURCE TITLE: Proc. Sci.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
