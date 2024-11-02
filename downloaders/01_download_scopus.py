@@ -31,9 +31,9 @@ url = f'https://www.scopus.com/authid/detail.uri?authorId={scopus_id}'
 # https://www.selenium.dev/documentation/webdriver/capabilities/
 options = Options()
 
-options.set_preference('network.proxy.type', 1)
-options.set_preference("network.proxy.socks", "localhost");     
-options.set_preference("network.proxy.socks_port", 9200);
+# options.set_preference('network.proxy.type', 1)
+# options.set_preference("network.proxy.socks", "localhost");     
+# options.set_preference("network.proxy.socks_port", 9200);
 
 # options.add_argument('-headless')
 
@@ -83,12 +83,11 @@ import time; time.sleep(2)
 driver.switch_to.window(driver.window_handles[1])
 selector = (By.XPATH, '//body')
 text = wait.until(expected.visibility_of_element_located(selector)).text
-# text = driver.find_element(By.XPATH, '//body').text
 
 if len(text) > 1:
     open('scopus.txt', 'w').write(text)
 else:
     raise RuntimeError('Empty result from the export page. Maybe sleep time was too short?')
 
-# driver.quit()
+driver.quit()
 
