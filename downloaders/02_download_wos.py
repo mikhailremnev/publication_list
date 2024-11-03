@@ -11,6 +11,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as expected
 from selenium.webdriver.common.by import By
 
+import time
+
 # For saving CSV file
 import tempfile
 
@@ -27,10 +29,13 @@ url = f'https://www.webofscience.com/wos/author/record/{wos_id}'
 options = Options()
 
 tmp_dir = tempfile.TemporaryDirectory()
+# options.add_argument('-headless')
 
+#=== Proxy setup
 # options.set_preference('network.proxy.type', 1)
+# options.set_preference("network.proxy.socks", "localhost");     
+# options.set_preference("network.proxy.socks_port", 9200);
 
-options.add_argument('-headless')
 options.set_preference('browser.download.folderList', 2) # custom location
 options.set_preference('browser.download.manager.showWhenStarting', False)
 options.set_preference('browser.download.dir', tmp_dir.name)
@@ -46,13 +51,17 @@ wait = WebDriverWait(driver, timeout=20)
 
 driver.get(url)
 
+wait.until(lambda d: d.execute_script('return document.readyState') == 'complete')
+print('Page loaded')
+time.sleep(5) # The dialog window takes a while to appear
+
 selector = (By.ID, 'onetrust-accept-btn-handler')
 wait.until(expected.element_to_be_clickable(selector)).click()
 selector = (By.ID, 'onetrust-policy')
 wait.until(expected.invisibility_of_element_located(selector))
 print('Accepted cookies')
 
-selector = (By.CLASS_NAME, '_pendo-button')
+selector = (By.ID, 'dismissGuides')
 wait.until(expected.element_to_be_clickable(selector)).click()
 wait.until(expected.invisibility_of_element_located(selector))
 print('Closed welcome window')
@@ -84,9 +93,4 @@ content = open(f'{tmp_dir.name}/savedrecs.txt').read()
 open('wos.txt', 'w').write(content)
 
 driver.quit()
-
-# for url in urls:
-
-# if __name__ == '__main__':
-#     main()
 

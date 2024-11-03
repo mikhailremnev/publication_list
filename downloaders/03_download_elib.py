@@ -5,6 +5,8 @@ from lxml import etree
 
 author_id = 989757
 
+# TODO: If the publication contains separate section "Версии", parsing breaks
+
 def main():
     ### Download 
     data = load(author_id)
@@ -14,16 +16,23 @@ def main():
     out_file = open('elibrary.csv', 'w')
 
     for row in rows:
+        # columns = row.xpath('./td')
         columns = [x.strip() for x in row.itertext()]
         num = columns[1]
-        title = columns[4]
-        authors = columns[5]
-        source = columns[6]
-        citations = columns[7]
+        # Since title can contain <i> and <b> tags,
+        # itertext might have many elements for title.
+        # TODO: Come up with a better way to parse,
+        # probably by checking position of <br> tags
+        # TODO: Also, joining by space is not
+        # correct here, it is necessary to carefully
+        # check the preceding and following tags.
+        title = ' '.join(columns[4:-3])
+        authors = columns[-3]
+        source = columns[-2]
+        citations = columns[-1]
         out_file.write('"%s","%s","%s"\n' % (title, authors, source))
         print('"%s","%s","%s"' % (title, authors, source))
         # print( '  ;  '.join([num, title, authors, source]) )
-
 
 def load(author_id):
     """Load data from elibrary

@@ -3,6 +3,7 @@
 ################################################
 # NOTE: This has to be done through institution network (or through a proxy)
 # Otherwise, full scopus data will not be available
+# See WEBDRIVER OPTIONS section below to set up a proxy
 ################################################
 
 from selenium import webdriver
@@ -16,10 +17,14 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as expected
 from selenium.webdriver.common.by import By
 
+import time
+
 # For saving CSV file
 import tempfile
+from pathlib import Path
 
-# urls = open('config.txt', 'r').readlines()
+################################################
+# GENERAL PARAMETERS
 
 scopus_id = 57219793453
 url = f'https://www.scopus.com/authid/detail.uri?authorId={scopus_id}'
@@ -30,18 +35,18 @@ url = f'https://www.scopus.com/authid/detail.uri?authorId={scopus_id}'
 
 # https://www.selenium.dev/documentation/webdriver/capabilities/
 options = Options()
+# options.add_argument('-headless')
 
+#=== Proxy setup
 # options.set_preference('network.proxy.type', 1)
 # options.set_preference("network.proxy.socks", "localhost");     
 # options.set_preference("network.proxy.socks_port", 9200);
 
-# options.add_argument('-headless')
-
-# tmp_dir = tempfile.TemporaryDirectory()
-# options.set_preference('browser.download.folderList', 2) # custom location
-# options.set_preference('browser.download.manager.showWhenStarting', False)
-# options.set_preference('browser.download.dir', tmp_dir.name)
-# options.set_preference('browser.helperApps.neverAsk.saveToDisk', 'text/plain')
+tmp_dir = tempfile.TemporaryDirectory()
+options.set_preference('browser.download.folderList', 2) # custom location
+options.set_preference('browser.download.manager.showWhenStarting', False)
+options.set_preference('browser.download.dir', tmp_dir.name)
+options.set_preference('browser.helperApps.neverAsk.saveToDisk', 'text/plain')
 
 s = Service('./geckodriver')
 driver = Firefox(service=s, options=options)
@@ -53,41 +58,49 @@ wait = WebDriverWait(driver, timeout=15)
 
 driver.get(url)
 
-# TODO: There is a direct link "Export all", it probably can be used in our case
+wait.until(lambda d: d.execute_script('return document.readyState') == 'complete')
+print('Page loaded')
+time.sleep(2)
 
-selector = (By.XPATH, '//a[@title="View list in search results format ' +\
-    'for more sorting options and/or to view a full list of documents"]')
+driver.execute_script("window.scrollBy(0, document.body.scrollHeight)");
+print('Scrolled to the bottom of webpage')
+
+# Looks like it takes some time to scroll to the bottom
+time.sleep(2)
+
+selector = (By.XPATH, "//button/span[contains(text(), 'Export all')]")
 wait.until(expected.element_to_be_clickable(selector)).click()
-print('Opened publications list')
+print('Clicked to export all publications')
 
-# TODO: Can just extract HTML parameters from URL and go to this link:
-# https://www.scopus.com/onclick/export.uri?oneClickExport=%7b%22Format%22%3a%22TEXT%22%2c%22View%22%3a%22CiteOnly%22%7d&sid=abd6d446a0ec7d3806f1404848fe4c20&sort=plf-f&origin=resultslist&src=s&zone=resultsListHeader&dataCheckoutTest=false&txGid=69af84b4550131066c8103da6f75fd10
-
-selector = (By.ID, 'selectAllCheck')
+selector = (By.XPATH, "//button/span[contains(text(), 'Plain text')]")
 wait.until(expected.element_to_be_clickable(selector)).click()
-print('Selected all publications')
+print('Selected TXT format')
 
-selector = (By.ID, 'export_results')
+selector = (By.XPATH, '//button/span/div[text() = "Export"]')
 driver.find_element(*selector).click()
-print('Opened save dialog')
+print('Initiated file saving')
 
-selector = (By.XPATH, '//label[@for="TEXT"]')
-wait.until(expected.element_to_be_clickable(selector)).click()
-print('Selected plain text as an export format')
+time.sleep(5)
 
-selector = (By.ID, 'exportTrigger')
-wait.until(expected.element_to_be_clickable(selector)).click()
-print('Started the export')
+def is_download_finished(download_path):
+    """Check if download has been finished.
+    Source: https://stackoverflow.com/a/53602937
+    """
+    firefox_temp_file = sorted(Path(download_path).glob('*.part'))
+    if len(firefox_temp_file) > 0: return False
+    # chrome_temp_file = sorted(Path(temp_folder).glob('*.crdownload'))
+    # if len(chrome_temp_file) == 0: return False
+    # downloaded_files = sorted(Path(temp_folder).glob('*.*'))
+    # if len(downloaded_files) >= 1: return False
 
-import time; time.sleep(2)
-driver.switch_to.window(driver.window_handles[1])
-selector = (By.XPATH, '//body')
-text = wait.until(expected.visibility_of_element_located(selector)).text
+    return True
 
-if len(text) > 1:
-    open('scopus.txt', 'w').write(text)
-else:
-    raise RuntimeError('Empty result from the export page. Maybe sleep time was too short?')
+while not is_download_finished(tmp_dir.name):
+    time.sleep(0.1)
+
+scopus = open(f'{tmp_dir.name}/scopus.txt').read()
+open('scopus.txt', 'w').write(scopus)
+print('Results have been saved to scopus.txt')
 
 driver.quit()
 
