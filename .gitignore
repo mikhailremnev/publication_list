@@ -1,0 +1,9 @@
+*.log
+*.out
+*.aux
+*.pdf
+downloaders/selenium/
+downloaders/config.txt
+downloaders/elibrary.csv
+downloaders/geckodriver
+downloaders/scopus.csv
